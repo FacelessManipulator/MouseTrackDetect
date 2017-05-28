@@ -1,0 +1,7 @@
+*.pyc
+.ipynb_checkpoints/
+test/
+data/
+*.zip
+*.txt
+*.swp
